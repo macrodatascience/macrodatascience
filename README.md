@@ -20,8 +20,10 @@ My work focuses on applying data and analytical methods to real-world problems i
 [![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/redshift/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-009EE0?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-0052CC?style=for-the-badge)](https://clickhouse.com/)
 [![dbt](https://img.shields.io/badge/dbt-FF5522?style=for-the-badge)](https://www.getdbt.com/)
@@ -38,7 +40,9 @@ My work focuses on applying data and analytical methods to real-world problems i
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://seaborn.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)](https://plotly.com/python/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-- Tableau, Power BI
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
 
 ### Other Tools
 Jupyter Notebooks, Docker, Git
