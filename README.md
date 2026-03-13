@@ -69,14 +69,17 @@ Jupyter Notebooks, Google Colab, Docker, Git
 
 **Statistics & Experimentation**
 
-* A/B testing
-* hypothesis testing
-* statistical analysis
+* Regression (Linear, Logistic) - Foundational Statistical Modeling
+* Hypothesis Testing - Statistical Reasoning
+* Statistical Analysis - Descriptive and Inferential Analytics
+* A/B Testing & Experimentation - Applied Experimental Design
+* Causal Inference - Connecting Experiments/Observational Data to cause-and-effect
+* Machine Learning Applications - Applied Predictive Modeling
 
 **Data Analytics**
 
 * SQL
-* Python (Pandas, NumPy, Scip)
+* Python (Pandas, NumPy)
 * exploratory data analysis
 
 **Data Visualization**
