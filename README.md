@@ -17,21 +17,22 @@ My work focuses on applying data and analytical methods to real-world problems i
 [![PySpark](https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge)](https://spark.apache.org/)
 
 ### Data Platforms & Warehousing
+
 [![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/redshift/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Snowflake](https://img.shields.io/badge/Snowflake-009EE0?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-[![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/redshift/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-009EE0?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
+[![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-0052CC?style=for-the-badge)](https://clickhouse.com/)
-[![dbt](https://img.shields.io/badge/dbt-FF5522?style=for-the-badge)](https://www.getdbt.com/)
 [![KDB-X](https://img.shields.io/badge/KDB--X-000000?style=for-the-badge&logo=kdb&logoColor=white)](https://code.kx.com/)
+[![dbt](https://img.shields.io/badge/dbt-FF5522?style=for-the-badge)](https://www.getdbt.com/)
 
 ### Machine Learning & Experimentation
 [![MLflow](https://img.shields.io/badge/MLflow-13A4FF?style=for-the-badge)](https://mlflow.org/)
-- AI / LLM Skills: OpenAI API, Claude API  
+- AI / LLM Skills: OpenAI API, Claude API, Gemini CLI
 - LLM Foundations, MCP  
 - RAG architecture with Vector Databases
 
@@ -45,7 +46,7 @@ My work focuses on applying data and analytical methods to real-world problems i
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
 
 ### Other Tools
-Jupyter Notebooks, Docker, Git
+Jupyter Notebooks, Google Colab, Docker, Git
 
 ---
 
@@ -56,15 +57,13 @@ Jupyter Notebooks, Docker, Git
 [![Data Analysis Projects](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=data-analysis-projects)](https://github.com/macrodatascience/data-analysis-projects)
 [![Learning Notes](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=learning-notes)](https://github.com/macrodatascience/learning-notes)
 
-
-
 ## Current Learning Focus
 
-- Advanced SQL and data analysis  
+- Advanced SQL and data science  
 - Experimentation and causal inference  
 - Product analytics  
 - Data visualization and dashboards  
-- AI tools and LLM workflows
+- AI tools, ML engineering, and LLM workflows
 
 ## Areas of Interest
 
@@ -147,7 +146,10 @@ https://github.com/macrodatascience/learning-notes
 [![Codecademy](https://img.shields.io/badge/Codecademy-FF5C00?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/)
 [![Educative](https://img.shields.io/badge/Educative-5F2B87?style=for-the-badge)](https://www.educative.io/)
 [![edX](https://img.shields.io/badge/edX-0096FF?style=for-the-badge&logo=edx&logoColor=white)](https://www.edx.org/)
-[![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![IBM Developer](https://img.shields.io/badge/IBM_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://developer.ibm.com/)
+[![Google Developers](https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
 
 ---
 
