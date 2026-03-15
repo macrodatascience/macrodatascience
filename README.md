@@ -1,7 +1,10 @@
 # Hi, I'm Naveen 👋
 
-I am building expertise in **statistics, experimentation, data analytics, product thinking, and software engineering** through hands-on projects and structured learning.  
-My work focuses on applying data and analytical methods to real-world problems in **product development, marketing, and finance**.
+I’m building expertise in **statistics, experimentation, data analytics, AI, product thinking, marketing, and software engineering** through hands-on projects and structured learning.
+
+My academic background combines **Computer Science Engineering, Finance, and Data Science**, and my professional experience spans **banking, asset management (mutual funds and hedge funds), and technology**, where I’ve developed **technical, product-focused, client-facing, and business-facing expertise**.
+
+I’m particularly interested in building and analyzing **AI and machine learning-driven research and trading systems, portfolio management tools, scalable data platforms, innovative products, and data-driven marketing and financial solutions**.
 
 ---
 
