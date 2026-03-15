@@ -2,7 +2,7 @@
 
 I’m building expertise in **statistics, experimentation, data analytics, AI, product thinking, marketing, and software engineering** through hands-on projects and structured learning.
 
-My academic background combines **Computer Science Engineering, Finance, and Data Science**, and my professional experience spans **banking, asset management (mutual funds and hedge funds), data science, and technology**, where I’ve developed **technical, product-focused, client-facing, and business-facing expertise**.
+My academic background combines **Computer Science Engineering, Finance, and Data Science**, and my professional experience spans **banking, asset management (mutual funds and hedge funds), data science, and technology**, where I’ve developed **technical and product-focused analytical thinking along with client-facing and business-facing expertise**.
 
 I’m particularly interested in building and analyzing **AI and machine learning-driven research and trading systems, portfolio management tools, scalable data platforms, innovative products, and data-driven marketing and financial solutions**.
 
