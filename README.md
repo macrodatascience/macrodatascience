@@ -150,12 +150,6 @@ https://github.com/macrodatascience/learning-notes
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macrodatascience&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macrodatascience&layout=compact)
-
----
 
 ## Learning Platforms
 
