@@ -61,8 +61,6 @@ Jupyter Notebooks, Google Colab, Docker, Git
 
 [![Learning Notes](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=learning-notes)](https://github.com/macrodatascience/learning-notes)
 
-[![FMML 2021](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=fmml2021)](https://github.com/macrodatascience/fmml2021)
-
 ## Current Learning Focus
 
 - Advanced SQL and data science  
