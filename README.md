@@ -55,13 +55,29 @@ Jupyter Notebooks, Google Colab, Docker, Git
 
 ## Featured Projects
 
-| ML Projects | Algorithms | FMML 2021 |
-|------------|---------------|------------|
-| [![ML](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=ML)](https://github.com/macrodatascience/ML) | [![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=algorithms-and-data-structures)](https://github.com/macrodatascience/algorithms-and-data-structures) | [![FMML](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=fmml2021)](https://github.com/macrodatascience/fmml2021) |
+<p float="left">
+  <a href="https://github.com/macrodatascience/ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=ML" width="200" />
+  </a>
+  <a href="https://github.com/macrodatascience/sql-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=sql-portfolio" width="200" />
+  </a>
+  <a href="https://github.com/macrodatascience/algorithms-and-data-structures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=algorithms-and-data-structures" width="200" />
+  </a>
+</p>
 
-| Data Analysis | Learning Notes | SQL Portfolio |
-|---------------|----------------|-----------|
-| [![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=data-analysis-projects)](https://github.com/macrodatascience/data-analysis-projects) | [![Learning Notes](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=learning-notes)](https://github.com/macrodatascience/learning-notes) | [![SQL](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=sql-portfolio)](https://github.com/macrodatascience/sql-portfolio) | 
+<p float="left">
+  <a href="https://github.com/macrodatascience/data-analysis-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=data-analysis-projects" width="200" />
+  </a>
+  <a href="https://github.com/macrodatascience/learning-notes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=learning-notes" width="200" />
+  </a>
+  <a href="https://github.com/macrodatascience/fmml2021">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=fmml2021" width="200" />
+  </a>
+</p>
 
 ## Current Learning Focus
 
