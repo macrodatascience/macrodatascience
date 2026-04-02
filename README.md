@@ -55,10 +55,12 @@ Jupyter Notebooks, Google Colab, Docker, Git
 
 ## Featured Projects
 
+[![Data Science - ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=ML)](https://github.com/macrodatascience/ML)
 [![SQL Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=sql-portfolio)](https://github.com/macrodatascience/sql-portfolio)
 [![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=algorithms-and-data-structures)](https://github.com/macrodatascience/algorithms-and-data-structures)
 [![Data Analysis Projects](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=data-analysis-projects)](https://github.com/macrodatascience/data-analysis-projects)
 [![Learning Notes](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=learning-notes)](https://github.com/macrodatascience/learning-notes)
+[![Foundations of Modern ML](https://github-readme-stats.vercel.app/api/pin/?username=macrodatascience&repo=fmml2021)](https://github.com/macrodatascience/fmml2021)
 
 ## Current Learning Focus
 
