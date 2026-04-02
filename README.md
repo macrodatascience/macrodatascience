@@ -108,14 +108,6 @@ Jupyter Notebooks, Google Colab, Docker, Git
 
 ## Featured Projects
 
-### SQL Portfolio
-
-Practice problems and solutions from multiple platforms demonstrating SQL concepts and analytical querying.
-
-https://github.com/macrodatascience/sql-portfolio
-
----
-
 ### Algorithms and Data Structures
 
 Python implementations and exercises for algorithmic problem solving.
@@ -129,6 +121,24 @@ https://github.com/macrodatascience/algorithms-and-data-structures
 Data analysis and visualization projects using Python, Pandas, NumPy, Plotly, Seaborn, and Streamlit.
 
 https://github.com/macrodatascience/data-analysis-projects
+
+---
+
+### Machine Learning Projects
+
+Machine Learning Projects implemented, and lab work for Foundations of Modern Machine Learning Program.
+
+https://github.com/macrodatascience/ML
+
+https://github.com/macrodatascience/fmml2021
+
+---
+
+### SQL Portfolio
+
+Practice problems and solutions from multiple platforms demonstrating SQL concepts and analytical querying.
+
+https://github.com/macrodatascience/sql-portfolio
 
 ---
 
