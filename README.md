@@ -124,7 +124,7 @@ https://github.com/macrodatascience/data-analysis-projects
 
 ---
 
-### Machine Learning Projects
+### AI and Machine Learning Projects
 
 Machine Learning Projects implemented, and lab work for Foundations of Modern Machine Learning Program.
 
@@ -132,6 +132,9 @@ https://github.com/macrodatascience/ML
 
 https://github.com/macrodatascience/fmml2021
 
+AI Engineering Projects implemented, and lab work for AI Agents implementation.
+
+https://github.com/macrodatascience/sovereign-agent-lab
 ---
 
 ### SQL Portfolio
